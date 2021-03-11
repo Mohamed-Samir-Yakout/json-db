@@ -26,8 +26,8 @@
       "description": "Pick 2 sandwiches from Big Mac (beef/chicken) and McChicken + 2 sandwiches from Beefburger, cheeseburger and Chicken MacDo + 2 regular fries + 1.25 liter Coke"
     },
     {
-      "meal": "Share Box",
-      "price": 25,
+      "meal": "Double Cheese Burger",
+      "price": 50,
       "description": "Pick 2 sandwiches from Big Mac (beef/chicken) and McChicken + 2 sandwiches from Beefburger, cheeseburger and Chicken MacDo + 2 regular fries + 1.25 liter Coke"
     },
     {
@@ -62,7 +62,9 @@
       "Branches": 20,
       "Dish": "Grills",
       "Mood": "Hidden Gems",
-      "openNow": true
+      "openNow": true,
+      "img" : "https://media-cdn.tripadvisor.com/media/photo-s/16/30/ba/6a/caption.jpg",
+      "mealImg": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/997716ff-0866-460a-a963-e3ce1e6d1b98.jpg"
     },
     {
       "id": "Buffalo-Burger",
@@ -71,7 +73,9 @@
       "Branches": 20,
       "Dish": "Burgers",
       "Mood": "Kids-Friendly",
-      "openNow": true
+      "openNow": true,
+      "img": "https://external-preview.redd.it/yiZQU3-2-7seX1QTFwsnIumMbDx-ArdS6lVvTJAsLX8.png?auto=webp&s=0a2fddc3336e2740b4121ade910425cb6a50a29b",
+      "mealImg": "https://www.kindpng.com/picc/m/105-1058739_buffalo-burger-menu-hd-png-download.png"
     },
     {
       "id": "Burger-King",
@@ -80,7 +84,9 @@
       "Branches": 20,
       "Dish": "Burgers",
       "Mood": "Kids-Friendly",
-      "openNow": true
+      "openNow": true,
+      "img" : "http://www.bbbsia.org/wp-content/uploads/sites/41/2017/08/burger-king-logo-2017.png",
+      "mealImg": "https://cdn-images-1.medium.com/max/1200/1*pIJH1mPega8583Y3NuPaLg.jpeg"
     },
     {
       "id": "Caracas",
@@ -89,7 +95,9 @@
       "Branches": 15,
       "Dish": "Pasta",
       "Mood": "Coffeeshops",
-      "openNow": true
+      "openNow": true,
+      "img" : "https://concordplaza-eg.com/wp-content/uploads/2018/11/15672974_10157984877985344_5732353123912014153_n.jpg",
+      "mealImg": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/a0fc30a6-b029-401d-aef6-1d0cec14299a.jpg"
     },
     {
       "id": "Crave",
@@ -98,7 +106,9 @@
       "Branches": 20,
       "Dish": "Pasta",
       "Mood": "Coffeeshops",
-      "openNow": true
+      "openNow": true,
+      "img": "https://identity-mag.com/wp-content/uploads/2014/10/10167978_10152363689108554_4726885930628505612_n.jpg",
+      "mealImg": "https://i1.wp.com/restaurantskuwait.com/wp-content/uploads/2019/03/cravetoo_93605347_2666551980250096_2467350790790354095_n.jpg?fit=1080%2C1080&ssl=1"
     },
     {
       "id": "Dunkin'",
@@ -107,7 +117,9 @@
       "Branches": 20,
       "Dish": "Donauts",
       "Mood": "Coffeeshops",
-      "openNow": true
+      "openNow": true,
+      "img": "https://pbs.twimg.com/profile_images/1077973091182170113/TEfF5YwZ_400x400.jpg",
+      "mealImg" : "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/why-dunkin-donuts-still-winning-breakfast-customers.jpg?itok=LBJiv2bh"
     },
     {
       "id": "El-Abd",
@@ -116,7 +128,9 @@
       "Branches": 20,
       "Dish": "Desserts",
       "Mood": "Coffeeshops",
-      "openNow": true
+      "openNow": true,
+      "img": "https://lh3.googleusercontent.com/proxy/DXI277rvinC7RHT3AaAByd-f4Lxb-5YMExSg78A31hBdW72Uku9lqpZC6mk7OB_nbmL5oWvSVSQrza55q6VwqDWri8zJXFsxFIcCgYn3a7tek1-5mA",
+      "mealImg": "https://lh3.googleusercontent.com/proxy/23XYtR0_GPlwmgvDZ8rqltNCR4uFPAvO-MtepJpNMC3hBDU42xecIzwag1C2lgO4dMSn2KX6A7bSmCQ76yS7Q0KFsS_IS6Wtnqd4X0jO1CraXaiQVQ"
     },
     {
       "id": "El-Lido",
@@ -124,7 +138,10 @@
       "hotLine": "N/A",
       "Branches": 20,
       "Dish": "Desserts",
-      "Mood": "Coffeeshops"
+      "Mood": "Coffeeshops",
+      "openNow": false,
+      "img": "https://pbs.twimg.com/profile_images/896408315797917696/HHsHLV4O_400x400.jpg",
+      "mealImg": "https://media-cdn.tripadvisor.com/media/photo-s/18/de/cb/a6/photo1jpg.jpg"
     },
     {
       "id": "ElDahan",
@@ -132,7 +149,10 @@
       "hotLine": 16194,
       "Branches": 20,
       "Dish": "Egyptian",
-      "Mood": "Cheap Eats"
+      "Mood": "Cheap Eats",
+      "openNow": false,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgD9nw27n984Sl47TNmUM5CNgLynkYaBTESg&usqp=CAU",
+      "mealImg": "https://menu22.com/images/90290271_1290524347802537_1543452757594210304_n.jpg"
     },
     {
       "id": "GAD",
@@ -140,7 +160,10 @@
       "hotLine": "N/A",
       "Branches": 20,
       "Dish": "Foul",
-      "Mood": "Cheap Eats"
+      "Mood": "Cheap Eats",
+      "openNow": false,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BnOT0MdXzrtA6JXntHROWfvMWsoxUw7pRQ&usqp=CAU",
+      "mealImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSG29F6IWshdVd6FgAtaDVObHUETb-Kop5ag&usqp=CAU"
     },
     {
       "id": "Hardee's",
@@ -148,7 +171,10 @@
       "hotLine": 19066,
       "Branches": 40,
       "Dish": "Burgers",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWM6px-w_T9N1s2jO8Z61zz_yPBx_qJgGbw&usqp=CAU",
+      "mealImg" : "https://cdn.livekindly.co/wp-content/uploads/2019/08/vegan-plant-based-news-hardees-1.png"
     },
     {
       "id": "Majesty",
@@ -156,7 +182,10 @@
       "hotLine": 19915,
       "Branches": 15,
       "Dish": "Pizza",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" :"https://www.mat3am.net/300x250/assets/2013/6/27/jpg/9c6be888-c3e0-475a-b593-b708ccf42319.jpg",
+      "mealImg" : "https://mediawatanguide.elwatannews.com/Gallery/Large/927_481551_455381101194328_2066261577_n.jpg"
     },
     {
       "id": "Max-Burger",
@@ -164,7 +193,10 @@
       "hotLine": 19065,
       "Branches": 15,
       "Dish": "Burgers",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img": "https://pbs.twimg.com/profile_images/535196250836987904/XuPhklJ6_400x400.jpeg",
+      "mealImg": "https://www.maxburgers.com/globalassets/hero-blocks/en/1920x1080_bilder_hemsida_plant-beef.jpg?width=1160&height=652"
     },
     {
       "id": "Mcdonald's",
@@ -172,7 +204,11 @@
       "hotLine": 19991,
       "Branches": 50,
       "Dish": "Burgers",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://cdn.mosoah.com/wp-content/uploads/2019/11/05154054/Mcdonalds-e1572957702921-825x510.jpg",
+      "mealImg": "https://img.atyabtabkha.com/HfmUgI11mC3bl_VCCb9pHOqCLFM=/640x360/https://harmony-assets-live.s3.amazonaws.com/image_source/eb/06/eb067f138bdc33570d124078c9891836d55b382c.jpg"
+
     },
     {
       "id": "Mo'men",
@@ -180,7 +216,10 @@
       "hotLine": 16600,
       "Branches": 20,
       "Dish": "Sandwiches",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://mir-s3-cdn-cf.behance.net/projects/404/f1c44351015633.Y3JvcCwzMTc5LDI0ODgsMTY0LDA.jpg",
+      "mealImg": "https://d2isrguaavypvq.cloudfront.net/images/restaurants/rst_896786.jpg"
     },
     {
       "id": "Mori-Sushi",
@@ -188,7 +227,10 @@
       "hotLine": 16885,
       "Branches": 30,
       "Dish": "Sushi",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img": "https://assets.cairo360.com/app/uploads/2010/02/mori-sushi.jpg",
+      "mealImg" : "https://image.freepik.com/free-photo/delicious-set-sushi-roll-with-fish-black-background-with-reflection-menu-restaurant_130040-474.jpg"
     },
     {
       "id": "O's-Pasta",
@@ -196,7 +238,10 @@
       "hotLine": "N/A",
       "Branches": 2,
       "Dish": "Pasta",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://static.takeaway.com/images/restaurants/be/0P77N75N/logo_465x320.png",
+      "mealImg" : "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/e27291a6-1406-44ba-b3f6-7e1d09ad0b89.jpg"
     },
     {
       "id": "Papa-John's",
@@ -204,7 +249,10 @@
       "hotLine": 19277,
       "Branches": 30,
       "Dish": "Pizza",
-      "Mood": "Hidden Gems"
+      "Mood": "Hidden Gems",
+      "openNow": false,
+      "img" : "https://media-exp1.licdn.com/dms/image/C560BAQEB3lDSkoxaWA/company-logo_200_200/0/1594045499229?e=2159024400&v=beta&t=7XAw4Hhmz-pxptdk_xHqp_Z_TfJJAXbCgBdsRHCk7oM",
+      "mealImg" : "https://img.grouponcdn.com/deal/29327KapBkmyyorzXL8NHRj46kX9/29-1243x746/v1/c870x524.jpg"
     },
     {
       "id": "Pastaweesy",
@@ -212,7 +260,10 @@
       "hotLine": 19034,
       "Branches": 20,
       "Dish": "Pasta",
-      "Mood": "Hidden Gems"
+      "Mood": "Hidden Gems",
+      "openNow": false,
+      "img" : "https://citystreet-eg.com/wp-content/uploads/2018/12/Untitled-1.jpg",
+      "mealImg": "https://citystreet-eg.com/wp-content/uploads/2018/12/asdasdd.jpg"
     },
     {
       "id": "Paul",
@@ -220,7 +271,10 @@
       "hotLine": "N/A",
       "Branches": 15,
       "Dish": "Pizza",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Paul.png",
+      "mealImg" : "https://media-cdn.tripadvisor.com/media/photo-s/16/ea/df/1e/photo0jpg.jpg"
     },
     {
       "id": "Peking",
@@ -228,7 +282,10 @@
       "hotLine": 16078,
       "Branches": 15,
       "Dish": "Pizza",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://assets.cairo360.com/app/uploads/2010/02/peking-211x211.jpg",
+      "mealImg": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/01652baa-2982-484d-85ac-2716827706e1.jpg"
     },
     {
       "id": "Pizza-Hut",
@@ -236,7 +293,10 @@
       "hotLine": 19000,
       "Branches": 30,
       "Dish": "Pizza",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZqn8vp8_Co-DJmcFSws6yblceOM1FeOg6A&usqp=CAU",
+      "mealImg": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/PizzaHut.jpg?itok=8m3Mf8Bf"
     },
     {
       "id": "Rosto",
@@ -244,7 +304,10 @@
       "hotLine": "N/A",
       "Branches": 20,
       "Dish": "Grills",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://2.bp.blogspot.com/-Sigt-ih8UBw/W6m3AuEgK3I/AAAAAAAABxs/oKM5d0qPwEQh5LzDVF3HcUPy1lofD2W7ACEwYBhgL/s200/%25D8%25AA%25D9%2586%25D8%25B2%25D9%258A%25D9%2584.jpg",
+      "mealImg" : "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/215fd815-4041-45f2-ac5b-209a1307eea1.jpg"
     },
     {
       "id": "Sabai-Sabai",
@@ -252,7 +315,10 @@
       "hotLine": "N/A",
       "Branches": 2,
       "Dish": "Grills",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://buenplan.nyc3.digitaloceanspaces.com/pictures/3238b01b-f9e5-41e6-9411-e6e1fc77b476.jpeg",
+      "mealImg": "https://media-cdn.tripadvisor.com/media/photo-s/0f/e6/18/6a/mixed-meat-platter-at.jpg"
     },
     {
       "id": "Tabali",
@@ -260,7 +326,11 @@
       "hotLine": 19061,
       "Branches": 20,
       "Dish": "Foul",
-      "Mood": "Hidden Gems"
+      "Mood": "Hidden Gems",
+      "openNow": false,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvXnqxKBDppiy-Fd-hA9F5vhAIsHeqJU1iQ&usqp=CAU",
+      "mealImg": "https://i.pinimg.com/originals/00/42/c4/0042c4be70cb65b891ae677ed575978d.jpg"
+
     },
     {
       "id": "Zack's",
@@ -268,7 +338,11 @@
       "hotLine": 15198,
       "Branches": 20,
       "Dish": "FriedChicken",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://i1.sndcdn.com/artworks-000658893898-p2til8-t500x500.jpg",
+      "mealImg" : "https://menu22.com/images/119093274_1972293829579836_7732205989622824270_o.jpg"
+
     },
     {
       "id": "Zi-Sushi",
@@ -276,7 +350,54 @@
       "hotLine": "N/A",
       "Branches": 20,
       "Dish": "Sushi",
-      "Mood": "Kids-Friendly"
+      "Mood": "Kids-Friendly",
+      "openNow": false,
+      "img" : "https://menu22.com/images/ZiiSushi-150x150.jpg",
+      "mealImg" : "https://fastly.4sqi.net/img/general/600x600/325166145_5NrYV0g4zq4b3FZ7lV45W8BT96nLqSzab6943osuIuk.jpg"
+    }
+  ],
+  "offers":[
+    {
+      "resturant": "Burger-King",
+      "duration":"one week",
+      "img" : "http://www.bbbsia.org/wp-content/uploads/sites/41/2017/08/burger-king-logo-2017.png",
+      "mealImg": "https://cdn-images-1.medium.com/max/1200/1*pIJH1mPega8583Y3NuPaLg.jpeg"
+    },
+    {
+      "resturant": "Mcdonald's",
+      "duration":"5 Days",
+      "img" : "https://cdn.mosoah.com/wp-content/uploads/2019/11/05154054/Mcdonalds-e1572957702921-825x510.jpg",
+      "mealImg": "https://img.atyabtabkha.com/HfmUgI11mC3bl_VCCb9pHOqCLFM=/640x360/https://harmony-assets-live.s3.amazonaws.com/image_source/eb/06/eb067f138bdc33570d124078c9891836d55b382c.jpg"
+    },
+    {
+      "resturant": "Tabali",
+      "duration":"one week",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvXnqxKBDppiy-Fd-hA9F5vhAIsHeqJU1iQ&usqp=CAU",
+      "mealImg": "https://i.pinimg.com/originals/00/42/c4/0042c4be70cb65b891ae677ed575978d.jpg"
+    },
+    {
+      "resturant": "Rosto",
+      "duration":"one week",
+      "img" : "https://2.bp.blogspot.com/-Sigt-ih8UBw/W6m3AuEgK3I/AAAAAAAABxs/oKM5d0qPwEQh5LzDVF3HcUPy1lofD2W7ACEwYBhgL/s200/%25D8%25AA%25D9%2586%25D8%25B2%25D9%258A%25D9%2584.jpg",
+      "mealImg" : "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/215fd815-4041-45f2-ac5b-209a1307eea1.jpg"
+    },
+    {
+      "resturant": "Pizza-Hut",
+      "duration":"one week",
+      "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZqn8vp8_Co-DJmcFSws6yblceOM1FeOg6A&usqp=CAU",
+      "mealImg": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/PizzaHut.jpg?itok=8m3Mf8Bf"
+    },
+    {
+      "resturant": "Peking",
+      "duration":"one week",
+      "img" : "https://assets.cairo360.com/app/uploads/2010/02/peking-211x211.jpg",
+      "mealImg": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/01652baa-2982-484d-85ac-2716827706e1.jpg"
+    },
+    {
+      "resturant": "Paul",
+      "duration":"one week",
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Paul.png",
+      "mealImg" : "https://media-cdn.tripadvisor.com/media/photo-s/16/ea/df/1e/photo0jpg.jpg"
     }
   ],
   "Dishes": [

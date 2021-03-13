@@ -473,7 +473,9 @@
   ],
   "orders": [
     {
+      "userEmail": "test@gmail.com",
       "order": [
+        
         {
           "meal": "Share Box",
           "price": 14.5,
@@ -495,9 +497,11 @@
       ],
       "totalprice": 83.5,
       "deliveryfee": 11,
+      "resturant": "Bon-Apetit",
       "id": 1
     },
     {
+      "userEmail": "test@gmail.com",
       "order": [
         {
           "meal": "Share Box",
@@ -507,6 +511,7 @@
         }
       ],
       "totalprice": 40,
+      "resturant": "Bon-Apetit",
       "deliveryfee": 11,
       "id": 2
     }
